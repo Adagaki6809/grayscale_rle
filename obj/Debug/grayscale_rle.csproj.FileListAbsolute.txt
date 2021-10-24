@@ -1,6 +1,0 @@
-C:\Users\Hitagi\Desktop\grayscale_rle\grayscale_rle\grayscale_rle\bin\Debug\grayscale_rle.exe
-C:\Users\Hitagi\Desktop\grayscale_rle\grayscale_rle\grayscale_rle\bin\Debug\grayscale_rle.pdb
-C:\Users\Hitagi\Desktop\grayscale_rle\grayscale_rle\grayscale_rle\obj\Debug\grayscale_rle.csprojResolveAssemblyReference.cache
-C:\Users\Hitagi\Desktop\grayscale_rle\grayscale_rle\grayscale_rle\obj\Debug\grayscale_rle.csproj.CoreCompileInputs.cache
-C:\Users\Hitagi\Desktop\grayscale_rle\grayscale_rle\grayscale_rle\obj\Debug\grayscale_rle.exe
-C:\Users\Hitagi\Desktop\grayscale_rle\grayscale_rle\grayscale_rle\obj\Debug\grayscale_rle.pdb
